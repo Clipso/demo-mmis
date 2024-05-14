@@ -10,19 +10,10 @@ This documentation offers ``guidelines`` on how to use the application effective
 
 
 .. note::
-   - The guidelines are divided into two sections: ``Options`` and ``Guidelines``.
+   - The guidelines are divided into two sections: ``Workflow`` and ``Content``.
    - The :doc:`Guidelines </Guidelines/workflow>` section provides information on how to use the application effectively.
-   - The :doc:`Options </Options/justcode>` section provides information on how to use the application's features.
+   - The :doc:`Content </Guidelines/content>` section provides information on how to use the application's features.
 
-
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Options
-
-   Options/justcode
-   Options/justlogic
 
 
 .. toctree::
