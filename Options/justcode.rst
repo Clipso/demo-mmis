@@ -13,9 +13,6 @@ The main goal of this repository is to provide a collection of code snippets, ex
 Options
 -------
 
-Scratch
-~~~~~~~
-
 Node.js
 ~~~~~~~
 
