@@ -34,10 +34,10 @@ This documentation offers ``guidelines`` on how to use the application effective
    Guidelines/workflow
 
    .. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Workflow
-
-   workflow/login
-   workflow/dashboard
+      :maxdepth: 2
+      :hidden:
+      :caption: Workflow
+      
+      Workflow/login
+      Workflow/dashboard
 
