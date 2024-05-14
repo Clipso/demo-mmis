@@ -18,3 +18,7 @@ The MMIS application is built using the following technologies:
 * Vue.js 3
 * Docker
 
+
+Demo video
+----------
+A demo video of the application can be found `Demo <https://www.youtube.com/watch?v=bf2tFixliMA>`_
